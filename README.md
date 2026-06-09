@@ -19,10 +19,3 @@ This project is a simple AI Recommendation System developed in Python. It recomm
 - Sports
 - Technology
 
-## How to Run
-1. Clone the repository
-2. Open the project folder
-3. Run the Python file:
-
-```bash
-python recommendation_system.py
